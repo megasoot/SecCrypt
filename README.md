@@ -40,7 +40,7 @@ SEC3 использует **AES-256-GCM** для защиты данных и п
 
 ## 📦 Установка
 
-1. Установите [exteraGram](https://github.com/exteraGram).
+1. Установите [exteraGram](https://t.me/exteraReleases).
 2. Скачайте последнюю версию SecCrypt из раздела **Releases**.
 3. Откройте файл `.plugin` через exteraGram.
 4. Установите плагин.
